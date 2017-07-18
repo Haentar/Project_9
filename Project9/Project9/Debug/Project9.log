@@ -1,0 +1,7 @@
+﻿  Trap.cpp
+  Source.cpp
+c:\users\haentar\documents\visual studio 2015\projects\project9\project9\source.cpp(42): error C2247: 'Quadrilateral::print' not accessible because 'Trap' uses 'private' to inherit from 'Quadrilateral'
+  c:\users\haentar\documents\visual studio 2015\projects\project9\project9\quadrilateral.h(9): note: see declaration of 'Quadrilateral::print'
+  c:\users\haentar\documents\visual studio 2015\projects\project9\project9\trap.h(3): note: see declaration of 'Trap'
+  c:\users\haentar\documents\visual studio 2015\projects\project9\project9\quadrilateral.h(4): note: see declaration of 'Quadrilateral'
+  Generating Code...
