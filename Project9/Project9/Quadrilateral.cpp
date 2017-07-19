@@ -18,7 +18,7 @@ Quadrilateral::Quadrilateral(Point A, Point B, Point C, Point D)
 	Point p4 = D;
 }
 
-void Quadrilateral::print() {
+ void Quadrilateral::print() {
 	cout << "Point 1 is at " << p1.getX() << "," << p1.getY() << endl;
 	cout << "Point 2 is at " << p2.getX() << "," << p1.getY() << endl;
 	cout << "Point 3 is at " << p3.getX() << "," << p1.getY() << endl;
