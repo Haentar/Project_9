@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\users\simon\desktop\project_9-master\project_9-master\project9\project9\source.cpp(19): warning C4101: 'i3': unreferenced local variable
+  Parallelogram.cpp
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  Rectangle.cpp
+  Project9.vcxproj -> C:\Users\Simon\Desktop\Project_9-master\Project_9-master\Project9\x64\Debug\Project9.exe
+  Project9.vcxproj -> C:\Users\Simon\Desktop\Project_9-master\Project_9-master\Project9\x64\Debug\Project9.pdb (Partial PDB)
